@@ -4,7 +4,8 @@ Your track: Cybersecurity
 Overview
 
 
-A national digital login service connects citizens to government services through one account. Software standards help the service verify identities and control access to protected resources. Artificial intelligence can identify unusual login patterns, but its decisions must be tested for accuracy, fairness, privacy, and security. Mobile applications must request sensitive permissions appropriately and protect information stored on devices. Networking technologies help secure communication and protect certain parts of users’ online activity. Cybersecurity controls reduce the risk of account theft, phishing, and unauthorized access. Data protection practices ensure that citizens’ personal information is collected and handled responsibly under applicable laws. These six fields work together to make the service secure, reliable, accessible, and trustworthy for citizens.
+A national digital login service connects citizens to government services through one account. Software standards help the service verify identities and control access to protected resources. Artificial intelligence can identify unusual login patterns, but its decisions must be tested for accuracy, fairness, privacy, and security. Mobile applications must request sensitive permissions appropriately and protect information stored on devices. Networking technologies help secure communication and protect certain parts of users’ online activity. Data protection practices ensure that citizens’ personal information is collected and handled responsibly under applicable laws. Cybersecurity controls, especially phishing-resistant authentication, help protect citizens’ accounts from phishing attacks and unauthorized access.
+
 
 
 Software
