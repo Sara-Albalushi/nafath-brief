@@ -61,4 +61,13 @@ Resource: Personal Data Protection Policy for Units of the State Administrative 
 
 Misconception in My Track
 
+
+A common misconception is that all multi-factor authentication (MFA) methods provide equal protection against phishing. In reality, attackers may steal or relay codes sent by text or email, so these methods are not generally phishing-resistant. CISA identifies FIDO/WebAuthn as a widely available phishing-resistant method and also describes PKI-based MFA, such as smart cards. This shows that using more than one authentication factor does not automatically prevent phishing. The CISA resource supports this correction under the heading “Phishing-Resistant MFA Implementations,” particularly the “FIDO/WebAuthn Authentication” and “PKI-based MFA” sections.
+
+
 Open Question
+
+
+How can the authority make phishing-resistant authentication accessible to citizens using different phones and devices, while keeping account recovery secure?
+
+
